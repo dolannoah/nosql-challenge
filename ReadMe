@@ -1,0 +1,11 @@
+Imported and Setup MongoDB Database - Loaded establishments.json into MongoDB and verified setup.
+
+Data Cleaning - Inserted a new restaurant, updated fields, and removed establishments
+
+Converted Data Types - Changed longitude, latitude, and RatingValue to numerical types.
+
+Key Metrics - Found establishments with Hygiene Score of 20 and highly rated London locations.
+
+Insights - Identified Local Authorities with the most establishments having Hygiene Score of zero
+
+Resources: MongoDB Documentation. MongoDB Aggregation Guide. Pandas Documentation. 
